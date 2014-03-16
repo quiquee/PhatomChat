@@ -1,0 +1,114 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="css/index.css">
+<link rel="stylesheet" type="text/css" href="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.css">
+ 
+<script type='text/javascript' src='http://code.jquery.com/jquery-2.0.2.js'></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.js"></script>
+
+  <body>
+
+  <!-- Start of Splash -->
+    <div data-role="page" id="splass">
+        <div data-role="header">
+            	<h1>Phantom Chat</h1>
+				
+        </div>
+        <!-- /header -->
+        <div data-role="content">
+            
+            <p align=center > 
+            <img width=70% src=img/SplashImage.png />
+            </p>
+            <p>L'application qui envoi à n'importe qui             
+            </p>
+            <p>Loading ...</p>
+        </div>
+        <!-- /content -->
+        <div data-role="footer" data-position="fixed">
+            	<h4>Encore en betatesting</h4>
+
+        </div>
+        <!-- /header -->
+    </div>
+    <!-- /page -->
+
+  
+    <!-- Start of first page -->
+    <div data-role="page" id="menu">
+        <div data-role="header">
+            	<h1>Phantom Chat</h1>
+
+        </div>
+        <!-- /header -->
+        <div data-role="content">
+            <p>L'application qui envoi à n'importe qui 
+            <a href="#phantomline"  data-role="button" data-transition="flip">Phantom Chat Line</a>
+            <a href="#profile"  data-role="button" data-transition="flip">Phantom Profile</a>
+            </p>
+        </div>
+        <!-- /content -->
+        <div data-role="footer" data-position="fixed">
+            	<h4>Encore en betatesting</h4>
+
+        </div>
+        <!-- /header -->
+    </div>
+    <!-- /page -->
+
+
+    <!-- Start of second page -->
+    <div data-role="page" id="phantomline">
+        <div data-role="header">
+            	<h1>Phantom Line</h1>
+
+        </div>
+        <!-- /header -->
+        <div data-role="content">
+            <p></p>
+            <div id=linearea></div>
+            <div data-role="fieldcontain"  id="msg" >
+            <label for="text-12" style="text-align:top;margin-left: 0px;">Msg:</label>
+            <input name="text-12" id="text-12" value="" type="text" class="caseName_h" autocorrect="off">
+        	</div>
+            
+            <a href="index.html" id="msgsend" data-role="button" data-icon="arrow-u">Envoyer</a>
+            
+        </div>
+        <!-- /content -->
+        <div data-role="footer" data-position="fixed">
+            	<h4>Phantom team</h4>
+
+        </div>
+        <!-- /header -->
+    </div>
+    <!-- /page -->
+    
+    <!-- Start of third page -->
+    <div data-role="page" id="profile">
+        <div data-role="header">
+            	<h1>Profile</h1>
+
+        </div>
+        <!-- /header -->
+        <div data-role="content">
+            
+				<div data-role="fieldcontain">
+    			<label for="name">Nom d'utilisateur:</label>
+    			<input type="text" name="name" id="name" value=""  />
+				</div>	
+				<div data-role="fieldcontain">
+    			<label for="status">Status:</label>
+    			<input type="text" name="status" id="status" value=""  />
+				</div>	
+				<a href="#menu" data-role="button" data-icon="arrow-u">Sauvegarder</a>
+        </div>
+        <!-- /content -->
+        <div data-role="footer" data-position="fixed">
+            	<h4>Page Footer</h4>
+
+        </div>
+        <!-- /header -->
+    </div>
+    <!-- /page -->
+</body>

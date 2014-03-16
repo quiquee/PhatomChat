@@ -1,0 +1,24 @@
+/home/enrique/code/PhantomChat/platforms/android/ant-gen/ch/phantomchat/R.java \
+ : /home/enrique/code/PhantomChat/platforms/android/res/drawable-mdpi/ic_launcher.png \
+/home/enrique/code/PhantomChat/platforms/android/res/drawable-mdpi/icon.png \
+/home/enrique/code/PhantomChat/platforms/android/res/drawable-xxhdpi/ic_launcher.png \
+/home/enrique/code/PhantomChat/platforms/android/res/drawable-ldpi/icon.png \
+/home/enrique/code/PhantomChat/platforms/android/res/drawable-xhdpi/ic_launcher.png \
+/home/enrique/code/PhantomChat/platforms/android/res/drawable-xhdpi/icon.png \
+/home/enrique/code/PhantomChat/platforms/android/res/values/strings.xml \
+/home/enrique/code/PhantomChat/platforms/android/res/drawable-xxxhdpi/ic_launcher.png \
+/home/enrique/code/PhantomChat/platforms/android/res/drawable/icon.png \
+/home/enrique/code/PhantomChat/platforms/android/res/drawable-hdpi/ic_launcher.png \
+/home/enrique/code/PhantomChat/platforms/android/res/drawable-hdpi/icon.png \
+/home/enrique/code/PhantomChat/platforms/android/res/xml/config.xml \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/res/drawable-mdpi/ic_launcher.png \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/res/drawable-xxhdpi/ic_launcher.png \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/res/drawable-xhdpi/ic_launcher.png \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/res/drawable-xxxhdpi/ic_launcher.png \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/res/drawable/icon.png \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/res/drawable-hdpi/ic_launcher.png \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/home/enrique/code/PhantomChat/platforms/android/ant-build/AndroidManifest.xml \
